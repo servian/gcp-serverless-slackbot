@@ -1,0 +1,4 @@
+{
+    "SLACK_TOKEN": "<slack token here>",
+    "WEBHOOK_URL": "<webhook from slack here>"
+}

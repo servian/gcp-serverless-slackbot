@@ -1,0 +1,5 @@
+{
+    "SLACK_SIGNING_SECRET": "<slack signing secret here>",
+    "WEBHOOK_URL": "<webhook for slack bot here",
+    "SLASH_HANDLER": "<URL for python cloud function here>"
+}
