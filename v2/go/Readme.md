@@ -1,4 +1,4 @@
-# GCP Serverless Slackbot Template - verion 2
+# GCP Serverless Slackbot Template - version 2
 Minimalistic code to create a serverless slash handler for a Slack bot. Further information on this repository can be found in the article [Google Cloud Platform - Serverless Slack Bot](https://medium.com/tbc). This version more gracefully handles cold starts to provide a more consistent acknowledgement response to Slack within the expected timeframs.
 
 # Deploy
